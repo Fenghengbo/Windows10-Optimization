@@ -1,0 +1,3 @@
+--resolution 5298 --no-console
+
+记得前面添加个空格
